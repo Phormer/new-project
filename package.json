@@ -1,0 +1,16 @@
+{
+  "name": "taskflow-todo-app",
+  "version": "1.0.0",
+  "description": "A clean, fast, zero-dependency To-Do web application ready for GitHub Pages.",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [
+    "todo",
+    "task-manager",
+    "vanilla-js",
+    "github-pages"
+  ],
+  "license": "MIT"
+}
